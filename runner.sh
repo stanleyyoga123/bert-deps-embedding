@@ -1,0 +1,1 @@
+python src/train.py --pretrained bert-large-uncased --model bert-dep --ds ext --ww 0.5 --dw 0.5 --seed 672810 --name bert-dep-large-ext-0.5-0.5-newest-ext-seed-672813 --gpu 7
